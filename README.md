@@ -1,7 +1,6 @@
 ![github-header-image (9)](https://github.com/user-attachments/assets/9248e699-770e-4cdc-af0d-1e7c528bf112)
 
-)
-)
+
 <h1 align="center">Hi 👋, I'm Dishani Navanjana</h1>
 <h3 align="center">Undergraduate Student | Passionate About Technology and Innovation</h3>
 
