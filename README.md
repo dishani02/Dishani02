@@ -1,4 +1,5 @@
-![Header](file:///C:/Users/Dishani%20Navanjana/Downloads/github-header-image%20(2).png)
+![github-header-image (2)](https://github.com/user-attachments/assets/ff4fc0fb-99ea-4e6c-90d4-211dbe3ceb96)
+)
 <h1 align="center">Hi 👋, I'm Dishani Navanjana</h1>
 <h3 align="center">Undergraduate Student | Passionate About Technology and Innovation</h3>
 
