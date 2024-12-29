@@ -1,4 +1,4 @@
-![LinkedIn Banner](https://i.pinimg.com/736x/73/91/53/739153423f7d42fae50b154db0a523d0.jpg)
+![LinkedIn Banner](file:///C:/Users/Dishani%20Navanjana/Downloads/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Dishani Navanjana</h1>
 <h3 align="center">Undergraduate Student | Passionate About Technology and Innovation</h3>
 
