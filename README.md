@@ -1,4 +1,4 @@
-![github-header-image (2)](![github-header-image](https://github.com/user-attachments/assets/fd14248f-f387-4b23-892a-23eea5b7a8e8)
+(![github-header-image](https://github.com/user-attachments/assets/fd14248f-f387-4b23-892a-23eea5b7a8e8)
 )
 )
 <h1 align="center">Hi 👋, I'm Dishani Navanjana</h1>
