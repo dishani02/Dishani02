@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/dishani navanjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishani navanjana" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> C <br/>
@@ -48,4 +48,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dishani02&show_icons=true&locale=en" alt="dishani02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dishani02&" alt="dishani02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dishani02&" alt="dishani02" /></p> -->
