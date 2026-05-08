@@ -53,7 +53,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dishani02&show_icons=true&locale=en&layout=compact" alt="dishani02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dishani02&show_icons=true&locale=en" alt="dishani02" /></p>
-
+![Current Status](https://img.shields.io/badge/status-active-brightgreen)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dishani02&" alt="dishani02" /></p>
 
 
