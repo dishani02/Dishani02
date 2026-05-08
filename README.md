@@ -1,75 +1,66 @@
 <div align="center">
 
-# Hi 👋, I'm Dishani Navanjana
+# Dishani Navanjana
 
-### ✨ Undergraduate Student | Passionate About Technology & Innovation ✨
+Undergraduate Student | Technology Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Future+Full-Stack+Developer;MERN+Stack+Learner+🚀;Tech+Enthusiast+💻;Always+Learning+New+Things+✨" />
+![Status](https://img.shields.io/badge/status-learning-blue)
+![Grade](https://img.shields.io/badge/grade-A-brightgreen)
 
 </div>
 
 ---
 
-## 🌸 About Me
+## About Me
 
-- 🔭 Currently working on sharpening my abilities and learning more 🚀  
-- 🌱 Currently learning the **MERN Stack**  
-- 💡 Interested in **Web Development, UI/UX, and Emerging Technologies**  
-- 📫 Reach me at: **dishaninavanjana11@gmail.com**  
-- ⚡ Fun fact: **My bugs have bugs! 👽**
+I’m an undergraduate student passionate about technology and continuous learning.  
+Currently focused on improving my development skills and exploring modern web technologies.
+
+- Currently learning the MERN Stack
+- Interested in full-stack development and UI design
+- Building projects and improving problem-solving skills
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dishani02&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dishani02&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dishani02&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dishani02&theme=github-dark&hide_border=true" />
 
 </div>
 
 ---
 
-## 🌈 Most Used Languages
+## Most Used Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishani02&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishani02&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## Contact
 
-<p align="center">
-
-<a href="mailto:dishaninavanjana11@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/dishani02">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+- Email: dishaninavanjana11@gmail.com
+- GitHub: https://github.com/dishani02
 
 ---
 
 <div align="center">
 
-### ✨ “Keep learning, keep building, keep growing.” ✨
+<sub>“My bugs have bugs.”</sub>
 
 </div>
