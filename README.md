@@ -19,6 +19,16 @@
 <a href="https://linkedin.com/in/dishani navanjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishani navanjana" height="30" width="40" /></a>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dishani02&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishani02&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dishani02&" alt="dishani02" /></p>
 
