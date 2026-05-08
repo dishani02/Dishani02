@@ -1,66 +1,54 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Dishani Navanjana</h1>
+<h3 align="center">Undergraduate Student | Passionate About Technology and Innovation</h3>
 
-# Dishani Navanjana
-
-Undergraduate Student | Technology Enthusiast
-
-![Status](https://img.shields.io/badge/status-learning-blue)
-![Grade](https://img.shields.io/badge/grade-A-brightgreen)
-
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dishani02&label=Profile%20views&color=0e75b6&style=flat" alt="dishani02" /> </p>
 
 ---
 
-## About Me
+- 🔭 I’m currently working on **sharpening my abilities and learning more!🚀**
 
-I’m an undergraduate student passionate about technology and continuous learning.  
-Currently focused on improving my development skills and exploring modern web technologies.
+- 🌱 I’m currently learning **MERN stack**
 
-- Currently learning the MERN Stack
-- Interested in full-stack development and UI design
-- Building projects and improving problem-solving skills
+- 📫 How to reach me **dishaninavanjana11@gmail.com**
+
+- ⚡Fun fact >> My bugs have bugs! 👽 
 
 ---
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dishani navanjana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishani navanjana" height="30" width="40" /></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dishani02&show_icons=true&locale=en&layout=compact" alt="dishani02" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dishani02&show_icons=true&locale=en" alt="dishani02" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dishani02&" alt="dishani02" /></p>
+
+<!-- <h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> C <br/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> C++ <br/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> HTML <br/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> CSS <br/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> JavaScript <br/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> Java <br/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> MySQL <br/>
+
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> Figma <br/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/> PHP <br/>
+</p>
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dishani02&show_icons=true&locale=en&layout=compact" alt="dishani02" /></p>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dishani02&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dishani02&theme=github-dark&hide_border=true" />
-
-</div>
-
----
-
-## Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishani02&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-## Contact
-
-- Email: dishaninavanjana11@gmail.com
-- GitHub: https://github.com/dishani02
-
----
-
-<div align="center">
-
-<sub>“My bugs have bugs.”</sub>
-
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dishani02&show_icons=true&locale=en" alt="dishani02" /></p>
+![Current Status](https://img.shields.io/badge/status-active-brightgreen)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dishani02&" alt="dishani02" /></p>
